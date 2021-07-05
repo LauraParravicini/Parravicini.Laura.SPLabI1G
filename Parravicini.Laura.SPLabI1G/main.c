@@ -42,6 +42,7 @@ int main()
                 case 3:
                     paises = ll_map(buffer,asignarEstadisticas);
                     if(paises != NULL && flagCargado){
+                        ll_deleteLinkedList(buffer);
                         mostrarPaises(paises);
                         flagMap = 1;
                     }else{
