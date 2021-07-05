@@ -1,0 +1,16 @@
+id,nombre,vac1dosis,vac2dosis,sinVacunar
+12,France,31,39,30
+18,Dominica,2,40,58
+30,Barbados,51,36,13
+41,Peru,25,31,44
+44,Marshall Islands,41,35,24
+46,Serbia,44,40,16
+48,Argentina,51,38,11
+53,Jordan,9,34,57
+55,Belize,29,39,32
+57,United Kingdom,57,31,12
+63,Hungary,36,39,25
+72,Iran,56,34,10
+73,Afghanistan,37,33,30
+84,Japan,33,36,31
+88,Mexico,15,35,50

@@ -1,0 +1,16 @@
+id,nombre,vac1dosis,vac2dosis,sinVacunar
+4,Canada,6,27,67
+6,Mongolia,26,23,51
+18,Dominica,2,40,58
+23,Egypt,20,11,69
+35,Colombia,22,10,68
+36,Greece,17,22,61
+43,Yemen,14,21,65
+53,Jordan,9,34,57
+59,Uruguay,12,17,71
+68,Ireland,3,1,96
+76,Myanmar,13,8,79
+86,Senegal,26,17,57
+91,Chile,12,16,72
+97,Spain,20,19,61
+98,Guatemala,3,22,75

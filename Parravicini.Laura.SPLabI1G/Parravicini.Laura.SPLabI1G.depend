@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1625444805 source:c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625524918 c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\linkedlist.h
+
+1625525784 source:c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\pais.c
+	"pais.h"
+
+1625524391 c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\pais.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+
+1625437897 c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1625332988 source:c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1625524142 c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\utn.h
+
+1625522034 source:c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\parser.c
+	"parser.h"
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
+1625525342 source:c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\informes.c
+	"informes.h"
+
+1625525325 c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\informes.h
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	"pais.h"
+
+1625525991 source:c:\users\usuario\desktop\utn\programacion 1\ejercicios\segundo parcial\parravicini.laura.splabi1g\parravicini.laura.splabi1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"pais.h"
+	"informes.h"
+	"utn.h"
+
